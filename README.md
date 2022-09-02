@@ -1,7 +1,5 @@
 # Aula Java Dispositivos Moveis
 
-Colocar em pratica projetos Java em sala
-
-Conceitos de Orientação a Objetos
-
-Arquitetura de software com MVC
+<h3>Projetos Java em sala</h3>
+<h3>Conceitos de Orientação a Objetos</h3>
+<h3>Arquitetura de software com MVC</h3>
